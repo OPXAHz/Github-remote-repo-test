@@ -2,3 +2,4 @@ git init //für den start
 gid add <file>
 git commit -m "message"
 git reset --soft HEAD~1
+git reset --hard HEAD~1
